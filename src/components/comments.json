@@ -1,0 +1,50 @@
+[
+    {
+        "_id": "64e1f3ef8a98a3b46943e232",
+        "userId": "3ew32wewd",
+        "postId": "64b594f73ec15f599b0b84dc",
+        "comment": "jhsjhdjhbjk",
+        "commentReference": "64e1f3ba8a98a3b46943e226",
+        "likes": {},
+        "replies":["vidhu","krishna"],
+        "createdAt": "2023-08-20T11:07:27.952Z",
+        "updatedAt": "2023-08-20T11:07:27.952Z",
+        "__v": 0
+    },
+    {
+        "_id": "64e1f3fa8a98a3b46943e236",
+        "userId": "3ew32wewd",
+        "postId": "64b594f73ec15f599b0b84dc",
+        "comment": "jhbsjd jgfj dhfg e fkdb ",
+        "commentReference": "64e1f3ba8a98a3b46943e226",
+        "likes": {},
+        "replies":[],
+        "createdAt": "2023-08-20T11:07:38.316Z",
+        "updatedAt": "2023-08-20T11:07:38.316Z",
+        "__v": 0
+    },
+    {
+        "_id": "64e1f4038a98a3b46943e23a",
+        "userId": "3ew32wewd",
+        "postId": "64b594f73ec15f599b0b84dc",
+        "comment": "kuerbjhfj g jhegfdjhkhdfs",
+        "commentReference": "64e1f3ba8a98a3b46943e226",
+        "likes": {},
+        "replies":[],
+        "createdAt": "2023-08-20T11:07:47.607Z",
+        "updatedAt": "2023-08-20T11:07:47.607Z",
+        "__v": 0
+    },
+    {
+        "_id": "64e1f40f8a98a3b46943e23e",
+        "userId": "3ew32wewd",
+        "postId": "64b594f73ec15f599b0b84dc",
+        "comment": "jhbjshe hgejhf",
+        "commentReference": "64e1f3ba8a98a3b46943e226",
+        "likes": {},
+        "replies":[],
+        "createdAt": "2023-08-20T11:07:59.237Z",
+        "updatedAt": "2023-08-20T11:07:59.237Z",
+        "__v": 0
+    }
+]
