@@ -1,7 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "homepage":"https://letssocio.com",
+  "homepage":"https://RadoRavi.github.io/SocioWS",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
