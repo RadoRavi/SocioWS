@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.bea0856f.css","mappings":"AAAA,qBAMC,sBAAuB,CAFvB,WAAY,CACZ,UAED","sources":["index.css"],"sourcesContent":["html,\nbody,\n#root,\n.app {\n height: 100%;\n width: 100%;\n font-family: sans-serif;\n}"],"names":[],"sourceRoot":""}

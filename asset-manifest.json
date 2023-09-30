@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SocioWS/static/css/main.bea0856f.css",
+    "main.js": "/SocioWS/static/js/main.4eb18df7.js",
+    "index.html": "/SocioWS/index.html",
+    "main.bea0856f.css.map": "/SocioWS/static/css/main.bea0856f.css.map",
+    "main.4eb18df7.js.map": "/SocioWS/static/js/main.4eb18df7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bea0856f.css",
+    "static/js/main.4eb18df7.js"
+  ]
+}
